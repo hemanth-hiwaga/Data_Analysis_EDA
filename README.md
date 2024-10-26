@@ -94,7 +94,7 @@ As part of my journey to become a proficient data analyst, I undertook an e-comm
 
 This analysis involves grouping data by 'Product' and summarizing 'Quantity Ordered' and 'Total Sales'. By creating subplots for each column, we visualize sales performance for individual products. The sorted bar plots highlight top-performing products, enabling clear insights into sales distribution. This visualization aids in identifying key products driving revenue.
 
-![](/images/4_1_salesAndQuantity.png
+![](/images/4_1_salesAndQuantity.png)
 
 ### Summary
 This case study provided a detailed analysis of e-commerce sales data, exploring trends by month, hour, city, and product. Each step was carefully documented to ensure clarity and reproducibility, offering valuable insights into sales performance and customer behavior. The visualizations enhanced the storytelling aspect, making it easier to communicate findings and support decision-making.
