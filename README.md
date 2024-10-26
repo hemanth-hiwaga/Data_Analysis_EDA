@@ -33,7 +33,7 @@ As part of my journey to become a proficient data analyst, I undertook an e-comm
 - Visualized monthly sales using a bar plot.
 - This revealed peak sales periods and seasonal trends.
  
- ![](/images/1_1_sales-by-each-month.png)
+ ![plot](/images/1_1_sales-by-each-month.png)
 
 ### 5. Hourly Sales Analysis
 **Objective**: Analyze sales trends by hour of the day.  
